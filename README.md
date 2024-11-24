@@ -15,7 +15,7 @@ The goal of this analysis is to identify key patterns and trends in aviation acc
 
 
 
-Data Understanding
+**Data Understanding**
 
 Library Imports and Data Loading: The analysis begins by importing the necessary libraries and loading the dataset for exploration.
 
@@ -31,7 +31,7 @@ Flight purposes
 Analysis and Insights: The patterns and trends identified from the data are summarized, leading to actionable insights for aviation safety and accident prevention.
 
 
-Conclusion
+**Conclusion**
 The analysis reveals the following key findings:
 
 Trends Over Time: From 1980 onward, aviation accidents gradually decreased. However, a sudden increase in accidents occurred around 2016, with a gradual decrease observed again until 2022.
@@ -50,7 +50,7 @@ Seasonal Pattern: The summer months see the highest number of accidents, highlig
 
 Aircraft Make: Cessna is the aircraft maker with the highest number of accidents, followed by Piper.
 
-Recommendations
+**Recommendations**
 Based on the findings, the following recommendations can be made to improve aviation safety:
 
 Weather Awareness: Given that Visual Meteorological Conditions (VMC) are most common, flight crews should be more aware of weather forecasts and related risks in these conditions.
@@ -61,7 +61,7 @@ Flight Purpose & Scheduling: The higher number of accidents during personal or b
 
 Regional & Seasonal Safety Measures: Targeted safety campaigns in regions like Anchorage and during the summer months could address higher accident rates.
 
-Future Work
+**Future Work**
 To further enhance the analysis, future work could focus on:
 
 Examining the impact of specific aircraft makes on accident rates and suggesting design or operational improvements.
