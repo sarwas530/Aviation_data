@@ -66,3 +66,7 @@ To further enhance the analysis, future work could focus on:
 
 Examining the impact of specific aircraft makes on accident rates and suggesting design or operational improvements.
 Deeper analysis of weather-related data to identify specific weather conditions or patterns that contribute to higher accident risks.
+
+
+### Tableau link 
+ https://public.tableau.com/views/AviationAccidentSurvey/AviationAccidentSurveyDataAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
