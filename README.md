@@ -1,13 +1,19 @@
 
 Aviation Accident Survey Data Analysis
 
+
 Overview
 
+
 This dataset consists of aviation accident survey data, providing detailed information on various factors related to accidents. It includes variables such as aircraft destruction status, types of injuries sustained, accident locations (by year and month), engine types involved, weather conditions, flight purposes, and more. The data aims to uncover insights into aviation accidents to help improve flight safety and reduce risks.
+
+
 
 Business Problem
 
 The goal of this analysis is to identify key patterns and trends in aviation accidents to improve safety measures in the industry. By understanding the relationships between factors such as weather conditions, engine types, injury severity, and flight purpose, the findings can inform data-driven decision-making in aviation safety policies and operational practices. The ultimate aim is to enhance overall flight safety and minimize accident-related risks.
+
+
 
 Data Understanding
 
@@ -23,6 +29,7 @@ Weather conditions
 Injury severity
 Flight purposes
 Analysis and Insights: The patterns and trends identified from the data are summarized, leading to actionable insights for aviation safety and accident prevention.
+
 
 Conclusion
 The analysis reveals the following key findings:
